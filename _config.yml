@@ -18,7 +18,7 @@ title: "Wambua Mutuku" # the main title
 
 tagline: software developer | Cybersecurity analyst | Security Manager | Pen tester  # it will display as the subtitle
 
-description: "My journey and projects in Software development, cybersecurity, Security management"
+description: "My journey and projects in Software development, cybersecurity, Security management."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -37,8 +37,8 @@ social:
   email: mutukuwambua400@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/wambuamutuku # change to your Twitter homepage
-    - https://github.com/WAMBUAM55211181 # change to your GitHub homepage
+    - https://twitter.com/WAMBUAM55211181 # change to your Twitter homepage
+    - https://github.com/wambuamutuku # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
      - https://www.linkedin.com/in/wambua-mutuku-10b30b229
